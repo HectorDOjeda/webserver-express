@@ -1,6 +1,7 @@
 const hbs = require('hbs');
 
-//helpers
+
+// helpers
 hbs.registerHelper('getAnio', () => {
     return new Date().getFullYear();
 });
