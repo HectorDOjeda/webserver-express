@@ -50,7 +50,6 @@
     },
     "devDependencies": {},
     "scripts": {
-        "test": "asd",
         "start": "node server.js",
         "nodemon": "nodemon server.js"
     },
